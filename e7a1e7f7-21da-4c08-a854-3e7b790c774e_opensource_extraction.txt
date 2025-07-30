@@ -1,0 +1,9 @@
+Sheet: customer_360_sample.csv
+[5 rows x 9 columns]
+Column names: ,Customer ID,Name,Age,Location,Segment,Product Holdings,Monthly Transactions,Activity Score,Month
+0,101,Alice,29,New York,Premium,"Savings, Credit Card",45,85,Jan
+1,102,Bob,35,San Francisco,Standard,Loan,30,70,Feb
+2,103,Charlie,42,Chicago,Premium,Savings,25,60,Mar
+3,104,Diana,31,Los Angeles,Standard,"Credit Card, Loan",50,90,Jan
+4,105,Evan,38,Boston,Premium,"Savings, Loan",40,75,Feb
+
